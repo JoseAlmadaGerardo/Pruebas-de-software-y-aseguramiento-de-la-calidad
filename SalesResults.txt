@@ -1,4 +1,0 @@
-TC1 Total Cost of all sales: 2481.8600000000006
-TC2 Total Cost of all sales: 166568.22999999998
-TC3 Total Cost of all sales: 165235.37
-Time elapsed: 0.6170921325683594 seconds
