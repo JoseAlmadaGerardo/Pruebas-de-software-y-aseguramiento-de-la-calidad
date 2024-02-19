@@ -1,0 +1,9 @@
+{
+  "customers": [
+    {
+      "name": "Jeremmy Jones",
+      "email": "backcountry@rules.com",
+      "phone": "1002030405"
+    }
+  ]
+}

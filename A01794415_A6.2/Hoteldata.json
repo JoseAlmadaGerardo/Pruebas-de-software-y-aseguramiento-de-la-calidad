@@ -1,0 +1,14 @@
+{
+  "hotels": [
+    {
+      "name": "Steves places",
+      "location": "Av. de la manzana 130",
+      "phone": "91283746"
+    },
+    {
+      "name": "Siberia express",
+      "location": "olimpic valley 01",
+      "phone": "564738290"
+    }
+  ]
+}
